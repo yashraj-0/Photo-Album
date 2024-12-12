@@ -55,7 +55,7 @@
 .card:hover {
   transform: scale(1.03);
   transition: 0.5s;
-  filter: drop-shadow(0 0 10px #343434f2);
+  filter: drop-shadow(0 0 10px #353535f2);
 }
 
 
